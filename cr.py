@@ -135,6 +135,7 @@ def prim_mst(graph):
 
 # Executar o algoritmo de Prim no grafo principal e atualizar o grafo
 mst = prim_mst(g)
+g.write_graphml("grafo_filmes.graphml")
 g = mst
 g.write_graphml("grafo_filmes_mst.graphml")
 print('Grafo mínimo gerador criado e exportado para grafo_filmes_mst.graphml')
