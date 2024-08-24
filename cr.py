@@ -11,14 +11,8 @@ api_key = 'e09c000729271eec3794b6bcd05e460b'
 discover_url = 'https://api.themoviedb.org/3/discover/movie'
 details_url = 'https://api.themoviedb.org/3/movie'
 
-# Mapeamento de países para idiomas principais
-countries_languages = {
-    'US': 'en',
-    'IN': 'hi',
-    'CN': 'zh',
-    'JP': 'ja',
-    'GB': 'en'
-}
+# Mapeamento dos principais países da indústria cinematográfica
+countries = ['US', 'IN', 'CN', 'JP', 'FR']
 
 # Parâmetros comuns para filtrar os filmes
 common_params = {
@@ -56,10 +50,9 @@ def get_movie_details(idFilme):
         return None
 
 # Função para buscar filmes e obter IMDb IDs, orçamento, receita, título e países de produção
-def fetch_movies_by_country(country, language):
+def fetch_movies_by_country(country):
     country_params = common_params.copy()
-    country_params['with_original_language'] = language
-    country_params['region'] = country
+    country_params['with_origin_country'] = country  # Filtrar filmes pelo país de produção
 
     response = requests.get(discover_url, params=country_params)
     filmes = ''
@@ -103,8 +96,8 @@ def fetch_movies_by_country(country, language):
 # Executar a função para cada país e combinar os resultados
 all_grafoData = []
 country_grafos = {}
-for country, language in countries_languages.items():
-    country_grafoData = fetch_movies_by_country(country, language)
+for country in countries:
+    country_grafoData = fetch_movies_by_country(country)
     all_grafoData.extend(country_grafoData)
     country_grafos[country] = country_grafoData
 
