@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_budget" for="node" attr.name="budget" attr.type="double"/>
+  <key id="v_size" for="node" attr.name="size" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <key id="e_label" for="edge" attr.name="label" attr.type="string"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_label">The Intouchables</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n1">
+      <data key="v_label">Lucy</data>
+      <data key="v_budget">40000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n2">
+      <data key="v_label">Amélie</data>
+      <data key="v_budget">10000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n3">
+      <data key="v_label">Taken</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n4">
+      <data key="v_label">Slumdog Millionaire</data>
+      <data key="v_budget">15000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n5">
+      <data key="v_label">Pan&apos;s Labyrinth</data>
+      <data key="v_budget">19000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n6">
+      <data key="v_label">The Pianist</data>
+      <data key="v_budget">35000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n7">
+      <data key="v_label">The Purge</data>
+      <data key="v_budget">3000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n8">
+      <data key="v_label">Assassin&apos;s Creed</data>
+      <data key="v_budget">125000000</data>
+      <data key="v_size">40</data>
+    </node>
+    <node id="n9">
+      <data key="v_label">Valerian and the City of a Thousand Planets</data>
+      <data key="v_budget">177200000</data>
+      <data key="v_size">60</data>
+    </node>
+    <node id="n10">
+      <data key="v_label">City of God</data>
+      <data key="v_budget">3300000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n11">
+      <data key="v_label">Love Actually</data>
+      <data key="v_budget">40000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n12">
+      <data key="v_label">Taken 2</data>
+      <data key="v_budget">45000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n13">
+      <data key="v_label">The Purge: Anarchy</data>
+      <data key="v_budget">9000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n14">
+      <data key="v_label">The Lobster</data>
+      <data key="v_budget">4000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n15">
+      <data key="v_label">Mr. Nobody</data>
+      <data key="v_budget">47000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n16">
+      <data key="v_label">Non-Stop</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n17">
+      <data key="v_label">Orphan</data>
+      <data key="v_budget">20000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n18">
+      <data key="v_label">Lord of War</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n19">
+      <data key="v_label">Blue Is the Warmest Color</data>
+      <data key="v_budget">4300000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n20">
+      <data key="v_label">Silent Hill</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n21">
+      <data key="v_label">Rambo: Last Blood</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n22">
+      <data key="v_label">The Neon Demon</data>
+      <data key="v_budget">7000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n23">
+      <data key="v_label">Transporter 2</data>
+      <data key="v_budget">32000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n24">
+      <data key="v_label">Asterix &amp; Obelix: Mission Cleopatra</data>
+      <data key="v_budget">58500000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n25">
+      <data key="v_label">Serial (Bad) Weddings</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n26">
+      <data key="v_label">Hellboy</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n27">
+      <data key="v_label">Transporter 3</data>
+      <data key="v_budget">30000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n28">
+      <data key="v_label">The Wave</data>
+      <data key="v_budget">7500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n29">
+      <data key="v_label">The Artist</data>
+      <data key="v_budget">15000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n30">
+      <data key="v_label">Raw</data>
+      <data key="v_budget">3500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n31">
+      <data key="v_label">Still Alice</data>
+      <data key="v_budget">5000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n32">
+      <data key="v_label">Two Is a Family</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n33">
+      <data key="v_label">Carnage</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n34">
+      <data key="v_label">Arthur and the Invisibles</data>
+      <data key="v_budget">86000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n35">
+      <data key="v_label">Irreversible</data>
+      <data key="v_budget">3500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n36">
+      <data key="v_label">The Orphanage</data>
+      <data key="v_budget">3400000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n37">
+      <data key="v_label">The Dreamers</data>
+      <data key="v_budget">15000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n38">
+      <data key="v_label">The Little Prince</data>
+      <data key="v_budget">64000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n39">
+      <data key="v_label">You Were Never Really Here</data>
+      <data key="v_budget">17000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n40">
+      <data key="v_label">Anna</data>
+      <data key="v_budget">34000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n41">
+      <data key="v_label">Portrait of a Lady on Fire</data>
+      <data key="v_budget">5740000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n42">
+      <data key="v_label">Love</data>
+      <data key="v_budget">3000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n43">
+      <data key="v_label">Welcome to the Sticks</data>
+      <data key="v_budget">11000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n44">
+      <data key="v_label">The Chorus</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n45">
+      <data key="v_label">Ghostland</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n46">
+      <data key="v_label">The Bélier Family</data>
+      <data key="v_budget">11000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n47">
+      <data key="v_label">Jackie</data>
+      <data key="v_budget">9000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n48">
+      <data key="v_label">Anatomy of a Fall</data>
+      <data key="v_budget">6700000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n49">
+      <data key="v_label">The Ghost Writer</data>
+      <data key="v_budget">45000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n50">
+      <data key="v_label">Hannibal Rising</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n51">
+      <data key="v_label">Babylon A.D.</data>
+      <data key="v_budget">70000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n52">
+      <data key="v_label">Magic in the Moonlight</data>
+      <data key="v_budget">16800000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n53">
+      <data key="v_label">Climax</data>
+      <data key="v_budget">2900000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n54">
+      <data key="v_label">Contraband</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n55">
+      <data key="v_label">Beauty and the Beast</data>
+      <data key="v_budget">33000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n56">
+      <data key="v_label">Unleashed</data>
+      <data key="v_budget">45000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n57">
+      <data key="v_label">The Wolf&apos;s Call</data>
+      <data key="v_budget">22400000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n58">
+      <data key="v_label">From Paris with Love</data>
+      <data key="v_budget">52000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n59">
+      <data key="v_label">Asterix at the Olympic Games</data>
+      <data key="v_budget">97250400</data>
+      <data key="v_size">30</data>
+    </node>
+    <node id="n60">
+      <data key="v_label">Persepolis</data>
+      <data key="v_budget">7300000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n61">
+      <data key="v_label">Babysitting</data>
+      <data key="v_budget">3400000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n62">
+      <data key="v_label">The Sisters Brothers</data>
+      <data key="v_budget">38000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n63">
+      <data key="v_label">Ballerina</data>
+      <data key="v_budget">30000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n64">
+      <data key="v_label">Elle</data>
+      <data key="v_budget">9804690</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n65">
+      <data key="v_label">The Death of Stalin</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n66">
+      <data key="v_label">Lockout</data>
+      <data key="v_budget">20000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n67">
+      <data key="v_label">District B13</data>
+      <data key="v_budget">12000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n68">
+      <data key="v_label">Love Me If You Dare</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n69">
+      <data key="v_label">Miss Sloane</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n70">
+      <data key="v_label">Enter the Void</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n71">
+      <data key="v_label">The Iron Lady</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n72">
+      <data key="v_label">Taxi 2</data>
+      <data key="v_budget">10500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n73">
+      <data key="v_label">Revenge</data>
+      <data key="v_budget">2900000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n74">
+      <data key="v_label">A Separation</data>
+      <data key="v_budget">5000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n75">
+      <data key="v_label">OSS 117: Cairo, Nest of Spies</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n76">
+      <data key="v_label">Arthur and the Revenge of Maltazard</data>
+      <data key="v_budget">87000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n77">
+      <data key="v_label">What&apos;s in a Name</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n78">
+      <data key="v_label">Alibi.com</data>
+      <data key="v_budget">7546570</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n79">
+      <data key="v_label">La Vie en Rose</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n80">
+      <data key="v_label">Amour</data>
+      <data key="v_budget">8900000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n81">
+      <data key="v_label">Little White Lies</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n82">
+      <data key="v_label">Ninja Assassin</data>
+      <data key="v_budget">40000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n83">
+      <data key="v_label">Arthur 3: The War of the Two Worlds</data>
+      <data key="v_budget">70200000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n84">
+      <data key="v_label">Brotherhood of the Wolf</data>
+      <data key="v_budget">29000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n85">
+      <data key="v_label">The Crimson Rivers</data>
+      <data key="v_budget">2365000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n86">
+      <data key="v_label">A Prophet</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n87">
+      <data key="v_label">Les Misérables</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n88">
+      <data key="v_label">An Officer and a Spy</data>
+      <data key="v_budget">25300000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n89">
+      <data key="v_label">Taxi 3</data>
+      <data key="v_budget">14500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n90">
+      <data key="v_label">Sink or Swim</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n91">
+      <data key="v_label">C&apos;est la vie!</data>
+      <data key="v_budget">17200000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n92">
+      <data key="v_label">Macbeth</data>
+      <data key="v_budget">15000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n93">
+      <data key="v_label">It Boy</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n94">
+      <data key="v_label">OSS 117: Lost in Rio</data>
+      <data key="v_budget">31165200</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n95">
+      <data key="v_label">Titane</data>
+      <data key="v_budget">6600000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n96">
+      <data key="v_label">I, Daniel Blake</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n97">
+      <data key="v_label">Tell No One</data>
+      <data key="v_budget">11700000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n98">
+      <data key="v_label">Oxygen</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n99">
+      <data key="v_label">Rust and Bone</data>
+      <data key="v_budget">15400000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n100">
+      <data key="v_label">Nothing to Hide</data>
+      <data key="v_budget">8500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n101">
+      <data key="v_label">My Life as a Zucchini</data>
+      <data key="v_budget">8000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n102">
+      <data key="v_label">Heartbreaker</data>
+      <data key="v_budget">8700000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n103">
+      <data key="v_label">Asterix: The Mansions of the Gods</data>
+      <data key="v_budget">30000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n104">
+      <data key="v_label">BPM (Beats per Minute)</data>
+      <data key="v_budget">6600000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n105">
+      <data key="v_label">Babysitting 2</data>
+      <data key="v_budget">9458736</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n106">
+      <data key="v_label">The Traitor</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n107">
+      <data key="v_label">Be Kind Rewind</data>
+      <data key="v_budget">20000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n108">
+      <data key="v_label">LOL (Laughing Out Loud)</data>
+      <data key="v_budget">10900000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n109">
+      <data key="v_label">The Extraordinary Adventures of Adèle Blanc-Sec</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n110">
+      <data key="v_label">Asterix &amp; Obelix: God Save Britannia</data>
+      <data key="v_budget">61000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n111">
+      <data key="v_label">High Tension</data>
+      <data key="v_budget">2500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n112">
+      <data key="v_label">Wasabi</data>
+      <data key="v_budget">15300000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n113">
+      <data key="v_label">The Tuche Family</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n114">
+      <data key="v_label">Serial (Bad) Weddings 2</data>
+      <data key="v_budget">18500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n115">
+      <data key="v_label">See You Up There</data>
+      <data key="v_budget">23000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n116">
+      <data key="v_label">The Stronghold</data>
+      <data key="v_budget">14479740</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n117">
+      <data key="v_label">Five</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n118">
+      <data key="v_label">The Red Turtle</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n119">
+      <data key="v_label">A Monster in Paris</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n120">
+      <data key="v_label">I Lost My Body</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n121">
+      <data key="v_label">The Brice Man</data>
+      <data key="v_budget">4289601</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n122">
+      <data key="v_label">Desire</data>
+      <data key="v_budget">1344000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n123">
+      <data key="v_label">Young &amp; Beautiful</data>
+      <data key="v_budget">4645437</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n124">
+      <data key="v_label">Personal Shopper</data>
+      <data key="v_budget">6000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n125">
+      <data key="v_label">Asterix: The Secret of the Magic Potion</data>
+      <data key="v_budget">36000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n126">
+      <data key="v_label">Taxi 4</data>
+      <data key="v_budget">17500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n127">
+      <data key="v_label">Serial Teachers</data>
+      <data key="v_budget">12000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n128">
+      <data key="v_label">Elizabeth: The Golden Age</data>
+      <data key="v_budget">55000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n129">
+      <data key="v_label">This Must Be the Place</data>
+      <data key="v_budget">25000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n130">
+      <data key="v_label">22 Bullets</data>
+      <data key="v_budget">24000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n131">
+      <data key="v_label">A Very Long Engagement</data>
+      <data key="v_budget">47000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n132">
+      <data key="v_label">Domino</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n133">
+      <data key="v_label">Polisse</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n134">
+      <data key="v_label">Black Box</data>
+      <data key="v_budget">10722240</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n135">
+      <data key="v_label">Oliver Twist</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n136">
+      <data key="v_label">Wolfwalkers</data>
+      <data key="v_budget">12000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n137">
+      <data key="v_label">RRRrrrr!!!</data>
+      <data key="v_budget">17820000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n138">
+      <data key="v_label">The Diving Bell and the Butterfly</data>
+      <data key="v_budget">14000020</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n139">
+      <data key="v_label">District 13: Ultimatum</data>
+      <data key="v_budget">15000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n140">
+      <data key="v_label">Holy Motors</data>
+      <data key="v_budget">4000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n141">
+      <data key="v_label">The Spanish Apartment</data>
+      <data key="v_budget">5300000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n142">
+      <data key="v_label">March of the Penguins</data>
+      <data key="v_budget">8000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n143">
+      <data key="v_label">Four Lions</data>
+      <data key="v_budget">3900000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n144">
+      <data key="v_label">The Three Musketeers: D&apos;Artagnan</data>
+      <data key="v_budget">27500000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n145">
+      <data key="v_label">Little Nicholas</data>
+      <data key="v_budget">22700000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n146">
+      <data key="v_label">Brimstone</data>
+      <data key="v_budget">13000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n147">
+      <data key="v_label">Nothing to Declare</data>
+      <data key="v_budget">28000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n148">
+      <data key="v_label">Miraculous World: New York, United HeroeZ</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n149">
+      <data key="v_label">The Piano Teacher</data>
+      <data key="v_budget">3000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n150">
+      <data key="v_label">Caché</data>
+      <data key="v_budget">8731048</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n151">
+      <data key="v_label">Maps to the Stars</data>
+      <data key="v_budget">15000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n152">
+      <data key="v_label">Superchondriac</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n153">
+      <data key="v_label">Nine Lives</data>
+      <data key="v_budget">30000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n154">
+      <data key="v_label">Daddy or Mommy</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n155">
+      <data key="v_label">Those Happy Days</data>
+      <data key="v_budget">7508646</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n156">
+      <data key="v_label">One Wild Moment</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n157">
+      <data key="v_label">Senna</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n158">
+      <data key="v_label">Taxi 5</data>
+      <data key="v_budget">24625000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n159">
+      <data key="v_label">Rubber</data>
+      <data key="v_budget">500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n160">
+      <data key="v_label">The Round Up</data>
+      <data key="v_budget">20000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n161">
+      <data key="v_label">I Am Not an Easy Man</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n162">
+      <data key="v_label">La Belle Époque</data>
+      <data key="v_budget">11000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n163">
+      <data key="v_label">Benedetta</data>
+      <data key="v_budget">24350000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n164">
+      <data key="v_label">Marry Me, Dude</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n165">
+      <data key="v_label">Wimbledon</data>
+      <data key="v_budget">31000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n166">
+      <data key="v_label">8 Women</data>
+      <data key="v_budget">8000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n167">
+      <data key="v_label">Adore</data>
+      <data key="v_budget">16000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n168">
+      <data key="v_label">Dogman</data>
+      <data key="v_budget">22700000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n169">
+      <data key="v_label">The Tuche Family: The American Dream</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n170">
+      <data key="v_label">The Invisible Boy</data>
+      <data key="v_budget">8000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n171">
+      <data key="v_label">The Gunman</data>
+      <data key="v_budget">40000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n172">
+      <data key="v_label">Samba</data>
+      <data key="v_budget">20000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n173">
+      <data key="v_label">Asterix &amp; Obelix: The Middle Kingdom</data>
+      <data key="v_budget">72000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n174">
+      <data key="v_label">The Vault</data>
+      <data key="v_budget">15000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n175">
+      <data key="v_label">Coco Before Chanel</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n176">
+      <data key="v_label">The Triplets of Belleville</data>
+      <data key="v_budget">9500000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n177">
+      <data key="v_label">Two Days, One Night</data>
+      <data key="v_budget">7000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n178">
+      <data key="v_label">The Room</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n179">
+      <data key="v_label">Neuilly Yo Mama!</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n180">
+      <data key="v_label">Serial Teachers 2</data>
+      <data key="v_budget">17000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n181">
+      <data key="v_label">Mesrine: Killer Instinct</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n182">
+      <data key="v_label">Penny Pincher!</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n183">
+      <data key="v_label">The Specials</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n184">
+      <data key="v_label">R.A.I.D. Special Unit</data>
+      <data key="v_budget">32400000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n185">
+      <data key="v_label">Le Brio</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n186">
+      <data key="v_label">Yves Saint Laurent</data>
+      <data key="v_budget">12000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n187">
+      <data key="v_label">The New Adventures of Aladdin</data>
+      <data key="v_budget">17800000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n188">
+      <data key="v_label">Mesrine: Public Enemy #1</data>
+      <data key="v_budget">80000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n189">
+      <data key="v_label">Mia and the White Lion</data>
+      <data key="v_budget">9600000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n190">
+      <data key="v_label">The Climb</data>
+      <data key="v_budget">6600000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n191">
+      <data key="v_label">Joyeux Noel</data>
+      <data key="v_budget">22000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n192">
+      <data key="v_label">Camping</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n193">
+      <data key="v_label">A Bag of Marbles</data>
+      <data key="v_budget">21400000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n194">
+      <data key="v_label">La Tour Montparnasse Infernale</data>
+      <data key="v_budget">1</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n195">
+      <data key="v_label">Miraculous: Ladybug &amp; Cat Noir, The Movie</data>
+      <data key="v_budget">86000000</data>
+      <data key="v_size">20</data>
+    </node>
+    <node id="n196">
+      <data key="v_label">Paranoia</data>
+      <data key="v_budget">35000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n197">
+      <data key="v_label">HOUBA! On the Trail of the Marsupilami</data>
+      <data key="v_budget">50000000</data>
+      <data key="v_size">10</data>
+    </node>
+    <node id="n198">
+      <data key="v_label">Bye Bye Morons</data>
+      <data key="v_budget">9700000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n199">
+      <data key="v_label">Up for Love</data>
+      <data key="v_budget">10000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <edge source="n0" target="n1">
+      <data key="e_weight">40000000</data>
+      <data key="e_label">40.00M</data>
+    </edge>
+    <edge source="n0" target="n2">
+      <data key="e_weight">10000000</data>
+      <data key="e_label">10.00M</data>
+    </edge>
+    <edge source="n0" target="n3">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n0" target="n6">
+      <data key="e_weight">35000000</data>
+      <data key="e_label">35.00M</data>
+    </edge>
+    <edge source="n0" target="n7">
+      <data key="e_weight">3000000</data>
+      <data key="e_label">3.00M</data>
+    </edge>
+    <edge source="n0" target="n8">
+      <data key="e_weight">125000000</data>
+      <data key="e_label">125.00M</data>
+    </edge>
+    <edge source="n0" target="n9">
+      <data key="e_weight">177200000</data>
+      <data key="e_label">177.20M</data>
+    </edge>
+    <edge source="n0" target="n10">
+      <data key="e_weight">3300000</data>
+      <data key="e_label">3.30M</data>
+    </edge>
+    <edge source="n0" target="n11">
+      <data key="e_weight">40000000</data>
+      <data key="e_label">40.00M</data>
+    </edge>
+    <edge source="n0" target="n12">
+      <data key="e_weight">45000000</data>
+      <data key="e_label">45.00M</data>
+    </edge>
+    <edge source="n0" target="n13">
+      <data key="e_weight">9000000</data>
+      <data key="e_label">9.00M</data>
+    </edge>
+    <edge source="n0" target="n14">
+      <data key="e_weight">4000000</data>
+      <data key="e_label">4.00M</data>
+    </edge>
+    <edge source="n0" target="n15">
+      <data key="e_weight">47000000</data>
+      <data key="e_label">47.00M</data>
+    </edge>
+    <edge source="n0" target="n16">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n17">
+      <data key="e_weight">20000000</data>
+      <data key="e_label">20.00M</data>
+    </edge>
+    <edge source="n0" target="n18">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n19">
+      <data key="e_weight">4300000</data>
+      <data key="e_label">4.30M</data>
+    </edge>
+    <edge source="n0" target="n20">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n22">
+      <data key="e_weight">7000000</data>
+      <data key="e_label">7.00M</data>
+    </edge>
+    <edge source="n0" target="n23">
+      <data key="e_weight">32000000</data>
+      <data key="e_label">32.00M</data>
+    </edge>
+    <edge source="n0" target="n24">
+      <data key="e_weight">58500000</data>
+      <data key="e_label">58.50M</data>
+    </edge>
+    <edge source="n0" target="n25">
+      <data key="e_weight">13000000</data>
+      <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n26">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n27">
+      <data key="e_weight">30000000</data>
+      <data key="e_label">30.00M</data>
+    </edge>
+    <edge source="n0" target="n29">
+      <data key="e_weight">15000000</data>
+      <data key="e_label">15.00M</data>
+    </edge>
+    <edge source="n0" target="n30">
+      <data key="e_weight">3500000</data>
+      <data key="e_label">3.50M</data>
+    </edge>
+    <edge source="n0" target="n31">
+      <data key="e_weight">5000000</data>
+      <data key="e_label">5.00M</data>
+    </edge>
+    <edge source="n0" target="n32">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n33">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n0" target="n34">
+      <data key="e_weight">86000000</data>
+      <data key="e_label">86.00M</data>
+    </edge>
+    <edge source="n0" target="n35">
+      <data key="e_weight">3500000</data>
+      <data key="e_label">3.50M</data>
+    </edge>
+    <edge source="n0" target="n37">
+      <data key="e_weight">15000000</data>
+      <data key="e_label">15.00M</data>
+    </edge>
+    <edge source="n0" target="n38">
+      <data key="e_weight">64000000</data>
+      <data key="e_label">64.00M</data>
+    </edge>
+    <edge source="n0" target="n39">
+      <data key="e_weight">17000000</data>
+      <data key="e_label">17.00M</data>
+    </edge>
+    <edge source="n0" target="n40">
+      <data key="e_weight">34000000</data>
+      <data key="e_label">34.00M</data>
+    </edge>
+    <edge source="n0" target="n41">
+      <data key="e_weight">5740000</data>
+      <data key="e_label">5.74M</data>
+    </edge>
+    <edge source="n0" target="n42">
+      <data key="e_weight">3000000</data>
+      <data key="e_label">3.00M</data>
+    </edge>
+    <edge source="n0" target="n43">
+      <data key="e_weight">11000000</data>
+      <data key="e_label">11.00M</data>
+    </edge>
+    <edge source="n0" target="n44">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n45">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n46">
+      <data key="e_weight">11000000</data>
+      <data key="e_label">11.00M</data>
+    </edge>
+    <edge source="n0" target="n47">
+      <data key="e_weight">9000000</data>
+      <data key="e_label">9.00M</data>
+    </edge>
+    <edge source="n0" target="n48">
+      <data key="e_weight">6700000</data>
+      <data key="e_label">6.70M</data>
+    </edge>
+    <edge source="n0" target="n49">
+      <data key="e_weight">45000000</data>
+      <data key="e_label">45.00M</data>
+    </edge>
+    <edge source="n0" target="n50">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n51">
+      <data key="e_weight">70000000</data>
+      <data key="e_label">70.00M</data>
+    </edge>
+    <edge source="n0" target="n52">
+      <data key="e_weight">16800000</data>
+      <data key="e_label">16.80M</data>
+    </edge>
+    <edge source="n0" target="n53">
+      <data key="e_weight">2900000</data>
+      <data key="e_label">2.90M</data>
+    </edge>
+    <edge source="n0" target="n55">
+      <data key="e_weight">33000000</data>
+      <data key="e_label">33.00M</data>
+    </edge>
+    <edge source="n0" target="n56">
+      <data key="e_weight">45000000</data>
+      <data key="e_label">45.00M</data>
+    </edge>
+    <edge source="n0" target="n57">
+      <data key="e_weight">22400000</data>
+      <data key="e_label">22.40M</data>
+    </edge>
+    <edge source="n0" target="n58">
+      <data key="e_weight">52000000</data>
+      <data key="e_label">52.00M</data>
+    </edge>
+    <edge source="n0" target="n59">
+      <data key="e_weight">97250400</data>
+      <data key="e_label">97.25M</data>
+    </edge>
+    <edge source="n0" target="n60">
+      <data key="e_weight">7300000</data>
+      <data key="e_label">7.30M</data>
+    </edge>
+    <edge source="n0" target="n61">
+      <data key="e_weight">3400000</data>
+      <data key="e_label">3.40M</data>
+    </edge>
+    <edge source="n0" target="n62">
+      <data key="e_weight">38000000</data>
+      <data key="e_label">38.00M</data>
+    </edge>
+    <edge source="n0" target="n63">
+      <data key="e_weight">30000000</data>
+      <data key="e_label">30.00M</data>
+    </edge>
+    <edge source="n0" target="n64">
+      <data key="e_weight">9804690</data>
+      <data key="e_label">9.80M</data>
+    </edge>
+    <edge source="n0" target="n65">
+      <data key="e_weight">13000000</data>
+      <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n66">
+      <data key="e_weight">20000000</data>
+      <data key="e_label">20.00M</data>
+    </edge>
+    <edge source="n0" target="n67">
+      <data key="e_weight">12000000</data>
+      <data key="e_label">12.00M</data>
+    </edge>
+    <edge source="n0" target="n68">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n69">
+      <data key="e_weight">13000000</data>
+      <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n70">
+      <data key="e_weight">13000000</data>
+      <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n71">
+      <data key="e_weight">13000000</data>
+      <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n72">
+      <data key="e_weight">10500000</data>
+      <data key="e_label">10.50M</data>
+    </edge>
+    <edge source="n0" target="n73">
+      <data key="e_weight">2900000</data>
+      <data key="e_label">2.90M</data>
+    </edge>
+    <edge source="n0" target="n74">
+      <data key="e_weight">5000000</data>
+      <data key="e_label">5.00M</data>
+    </edge>
+    <edge source="n0" target="n75">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n76">
+      <data key="e_weight">87000000</data>
+      <data key="e_label">87.00M</data>
+    </edge>
+    <edge source="n0" target="n77">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n78">
+      <data key="e_weight">7546570</data>
+      <data key="e_label">7.55M</data>
+    </edge>
+    <edge source="n0" target="n79">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n0" target="n80">
+      <data key="e_weight">8900000</data>
+      <data key="e_label">8.90M</data>
+    </edge>
+    <edge source="n0" target="n81">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n0" target="n82">
+      <data key="e_weight">40000000</data>
+      <data key="e_label">40.00M</data>
+    </edge>
+    <edge source="n0" target="n83">
+      <data key="e_weight">70200000</data>
+      <data key="e_label">70.20M</data>
+    </edge>
+    <edge source="n0" target="n84">
+      <data key="e_weight">29000000</data>
+      <data key="e_label">29.00M</data>
+    </edge>
+    <edge source="n0" target="n85">
+      <data key="e_weight">2365000</data>
+      <data key="e_label">2.37M</data>
+    </edge>
+    <edge source="n0" target="n86">
+      <data key="e_weight">13000000</data>
+      <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n87">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n88">
+      <data key="e_weight">25300000</data>
+      <data key="e_label">25.30M</data>
+    </edge>
+    <edge source="n0" target="n89">
+      <data key="e_weight">14500000</data>
+      <data key="e_label">14.50M</data>
+    </edge>
+    <edge source="n0" target="n90">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n91">
+      <data key="e_weight">17200000</data>
+      <data key="e_label">17.20M</data>
+    </edge>
+    <edge source="n0" target="n92">
+      <data key="e_weight">15000000</data>
+      <data key="e_label">15.00M</data>
+    </edge>
+    <edge source="n0" target="n93">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n94">
+      <data key="e_weight">31165200</data>
+      <data key="e_label">31.17M</data>
+    </edge>
+    <edge source="n0" target="n95">
+      <data key="e_weight">6600000</data>
+      <data key="e_label">6.60M</data>
+    </edge>
+    <edge source="n0" target="n96">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n97">
+      <data key="e_weight">11700000</data>
+      <data key="e_label">11.70M</data>
+    </edge>
+    <edge source="n0" target="n98">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n99">
+      <data key="e_weight">15400000</data>
+      <data key="e_label">15.40M</data>
+    </edge>
+    <edge source="n0" target="n100">
+      <data key="e_weight">8500000</data>
+      <data key="e_label">8.50M</data>
+    </edge>
+    <edge source="n0" target="n101">
+      <data key="e_weight">8000000</data>
+      <data key="e_label">8.00M</data>
+    </edge>
+    <edge source="n0" target="n102">
+      <data key="e_weight">8700000</data>
+      <data key="e_label">8.70M</data>
+    </edge>
+    <edge source="n0" target="n103">
+      <data key="e_weight">30000000</data>
+      <data key="e_label">30.00M</data>
+    </edge>
+    <edge source="n0" target="n104">
+      <data key="e_weight">6600000</data>
+      <data key="e_label">6.60M</data>
+    </edge>
+    <edge source="n0" target="n105">
+      <data key="e_weight">9458736</data>
+      <data key="e_label">9.46M</data>
+    </edge>
+    <edge source="n0" target="n106">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n107">
+      <data key="e_weight">20000000</data>
+      <data key="e_label">20.00M</data>
+    </edge>
+    <edge source="n0" target="n108">
+      <data key="e_weight">10900000</data>
+      <data key="e_label">10.90M</data>
+    </edge>
+    <edge source="n0" target="n109">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n0" target="n110">
+      <data key="e_weight">61000000</data>
+      <data key="e_label">61.00M</data>
+    </edge>
+    <edge source="n0" target="n111">
+      <data key="e_weight">2500000</data>
+      <data key="e_label">2.50M</data>
+    </edge>
+    <edge source="n0" target="n112">
+      <data key="e_weight">15300000</data>
+      <data key="e_label">15.30M</data>
+    </edge>
+    <edge source="n0" target="n113">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n114">
+      <data key="e_weight">18500000</data>
+      <data key="e_label">18.50M</data>
+    </edge>
+    <edge source="n0" target="n115">
+      <data key="e_weight">23000000</data>
+      <data key="e_label">23.00M</data>
+    </edge>
+    <edge source="n0" target="n116">
+      <data key="e_weight">14479740</data>
+      <data key="e_label">14.48M</data>
+    </edge>
+    <edge source="n0" target="n117">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n118">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n119">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n0" target="n120">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n121">
+      <data key="e_weight">4289601</data>
+      <data key="e_label">4.29M</data>
+    </edge>
+    <edge source="n0" target="n122">
+      <data key="e_weight">1344000</data>
+      <data key="e_label">1.34M</data>
+    </edge>
+    <edge source="n0" target="n123">
+      <data key="e_weight">4645437</data>
+      <data key="e_label">4.65M</data>
+    </edge>
+    <edge source="n0" target="n124">
+      <data key="e_weight">6000000</data>
+      <data key="e_label">6.00M</data>
+    </edge>
+    <edge source="n0" target="n125">
+      <data key="e_weight">36000000</data>
+      <data key="e_label">36.00M</data>
+    </edge>
+    <edge source="n0" target="n126">
+      <data key="e_weight">17500000</data>
+      <data key="e_label">17.50M</data>
+    </edge>
+    <edge source="n0" target="n127">
+      <data key="e_weight">12000000</data>
+      <data key="e_label">12.00M</data>
+    </edge>
+    <edge source="n0" target="n128">
+      <data key="e_weight">55000000</data>
+      <data key="e_label">55.00M</data>
+    </edge>
+    <edge source="n0" target="n129">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n0" target="n130">
+      <data key="e_weight">24000000</data>
+      <data key="e_label">24.00M</data>
+    </edge>
+    <edge source="n0" target="n131">
+      <data key="e_weight">47000000</data>
+      <data key="e_label">47.00M</data>
+    </edge>
+    <edge source="n0" target="n132">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n133">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n134">
+      <data key="e_weight">10722240</data>
+      <data key="e_label">10.72M</data>
+    </edge>
+    <edge source="n0" target="n135">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n136">
+      <data key="e_weight">12000000</data>
+      <data key="e_label">12.00M</data>
+    </edge>
+    <edge source="n0" target="n137">
+      <data key="e_weight">17820000</data>
+      <data key="e_label">17.82M</data>
+    </edge>
+    <edge source="n0" target="n138">
+      <data key="e_weight">14000020</data>
+      <data key="e_label">14.00M</data>
+    </edge>
+    <edge source="n0" target="n139">
+      <data key="e_weight">15000000</data>
+      <data key="e_label">15.00M</data>
+    </edge>
+    <edge source="n0" target="n140">
+      <data key="e_weight">4000000</data>
+      <data key="e_label">4.00M</data>
+    </edge>
+    <edge source="n0" target="n141">
+      <data key="e_weight">5300000</data>
+      <data key="e_label">5.30M</data>
+    </edge>
+    <edge source="n0" target="n142">
+      <data key="e_weight">8000000</data>
+      <data key="e_label">8.00M</data>
+    </edge>
+    <edge source="n0" target="n143">
+      <data key="e_weight">3900000</data>
+      <data key="e_label">3.90M</data>
+    </edge>
+    <edge source="n0" target="n144">
+      <data key="e_weight">27500000</data>
+      <data key="e_label">27.50M</data>
+    </edge>
+    <edge source="n0" target="n145">
+      <data key="e_weight">22700000</data>
+      <data key="e_label">22.70M</data>
+    </edge>
+    <edge source="n0" target="n146">
+      <data key="e_weight">13000000</data>
+      <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n147">
+      <data key="e_weight">28000000</data>
+      <data key="e_label">28.00M</data>
+    </edge>
+    <edge source="n0" target="n148">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n149">
+      <data key="e_weight">3000000</data>
+      <data key="e_label">3.00M</data>
+    </edge>
+    <edge source="n0" target="n150">
+      <data key="e_weight">8731048</data>
+      <data key="e_label">8.73M</data>
+    </edge>
+    <edge source="n0" target="n151">
+      <data key="e_weight">15000000</data>
+      <data key="e_label">15.00M</data>
+    </edge>
+    <edge source="n0" target="n152">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n153">
+      <data key="e_weight">30000000</data>
+      <data key="e_label">30.00M</data>
+    </edge>
+    <edge source="n0" target="n154">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n155">
+      <data key="e_weight">7508646</data>
+      <data key="e_label">7.51M</data>
+    </edge>
+    <edge source="n0" target="n156">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n157">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n158">
+      <data key="e_weight">24625000</data>
+      <data key="e_label">24.62M</data>
+    </edge>
+    <edge source="n0" target="n159">
+      <data key="e_weight">500000</data>
+      <data key="e_label">500.00k</data>
+    </edge>
+    <edge source="n0" target="n160">
+      <data key="e_weight">20000000</data>
+      <data key="e_label">20.00M</data>
+    </edge>
+    <edge source="n0" target="n161">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n162">
+      <data key="e_weight">11000000</data>
+      <data key="e_label">11.00M</data>
+    </edge>
+    <edge source="n0" target="n163">
+      <data key="e_weight">24350000</data>
+      <data key="e_label">24.35M</data>
+    </edge>
+    <edge source="n0" target="n164">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n165">
+      <data key="e_weight">31000000</data>
+      <data key="e_label">31.00M</data>
+    </edge>
+    <edge source="n0" target="n166">
+      <data key="e_weight">8000000</data>
+      <data key="e_label">8.00M</data>
+    </edge>
+    <edge source="n0" target="n167">
+      <data key="e_weight">16000000</data>
+      <data key="e_label">16.00M</data>
+    </edge>
+    <edge source="n0" target="n168">
+      <data key="e_weight">22700000</data>
+      <data key="e_label">22.70M</data>
+    </edge>
+    <edge source="n0" target="n169">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n170">
+      <data key="e_weight">8000000</data>
+      <data key="e_label">8.00M</data>
+    </edge>
+    <edge source="n0" target="n171">
+      <data key="e_weight">40000000</data>
+      <data key="e_label">40.00M</data>
+    </edge>
+    <edge source="n0" target="n172">
+      <data key="e_weight">20000000</data>
+      <data key="e_label">20.00M</data>
+    </edge>
+    <edge source="n0" target="n173">
+      <data key="e_weight">72000000</data>
+      <data key="e_label">72.00M</data>
+    </edge>
+    <edge source="n0" target="n174">
+      <data key="e_weight">15000000</data>
+      <data key="e_label">15.00M</data>
+    </edge>
+    <edge source="n0" target="n175">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n176">
+      <data key="e_weight">9500000</data>
+      <data key="e_label">9.50M</data>
+    </edge>
+    <edge source="n0" target="n177">
+      <data key="e_weight">7000000</data>
+      <data key="e_label">7.00M</data>
+    </edge>
+    <edge source="n0" target="n178">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n179">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n180">
+      <data key="e_weight">17000000</data>
+      <data key="e_label">17.00M</data>
+    </edge>
+    <edge source="n0" target="n181">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n182">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n183">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n184">
+      <data key="e_weight">32400000</data>
+      <data key="e_label">32.40M</data>
+    </edge>
+    <edge source="n0" target="n185">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n186">
+      <data key="e_weight">12000000</data>
+      <data key="e_label">12.00M</data>
+    </edge>
+    <edge source="n0" target="n187">
+      <data key="e_weight">17800000</data>
+      <data key="e_label">17.80M</data>
+    </edge>
+    <edge source="n0" target="n188">
+      <data key="e_weight">80000000</data>
+      <data key="e_label">80.00M</data>
+    </edge>
+    <edge source="n0" target="n189">
+      <data key="e_weight">9600000</data>
+      <data key="e_label">9.60M</data>
+    </edge>
+    <edge source="n0" target="n190">
+      <data key="e_weight">6600000</data>
+      <data key="e_label">6.60M</data>
+    </edge>
+    <edge source="n0" target="n191">
+      <data key="e_weight">22000000</data>
+      <data key="e_label">22.00M</data>
+    </edge>
+    <edge source="n0" target="n192">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n193">
+      <data key="e_weight">21400000</data>
+      <data key="e_label">21.40M</data>
+    </edge>
+    <edge source="n0" target="n194">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
+    </edge>
+    <edge source="n0" target="n195">
+      <data key="e_weight">86000000</data>
+      <data key="e_label">86.00M</data>
+    </edge>
+    <edge source="n0" target="n197">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n0" target="n198">
+      <data key="e_weight">9700000</data>
+      <data key="e_label">9.70M</data>
+    </edge>
+    <edge source="n0" target="n199">
+      <data key="e_weight">10000000</data>
+      <data key="e_label">10.00M</data>
+    </edge>
+    <edge source="n2" target="n28">
+      <data key="e_weight">7500000</data>
+      <data key="e_label">7.50M</data>
+    </edge>
+    <edge source="n3" target="n5">
+      <data key="e_weight">19000000</data>
+      <data key="e_label">19.00M</data>
+    </edge>
+    <edge source="n3" target="n21">
+      <data key="e_weight">50000000</data>
+      <data key="e_label">50.00M</data>
+    </edge>
+    <edge source="n3" target="n54">
+      <data key="e_weight">25000000</data>
+      <data key="e_label">25.00M</data>
+    </edge>
+    <edge source="n3" target="n196">
+      <data key="e_weight">35000000</data>
+      <data key="e_label">35.00M</data>
+    </edge>
+    <edge source="n4" target="n6">
+      <data key="e_weight">15000000</data>
+      <data key="e_label">15.00M</data>
+    </edge>
+    <edge source="n19" target="n36">
+      <data key="e_weight">3400000</data>
+      <data key="e_label">3.40M</data>
+    </edge>
+  </graph>
+</graphml>
