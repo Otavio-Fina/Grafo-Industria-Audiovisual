@@ -236,13 +236,13 @@
       <data key="v_size">30</data>
     </node>
     <node id="n45">
-      <data key="v_label">Hotarubi no Mori e</data>
-      <data key="v_budget">1</data>
+      <data key="v_label">13 Assassins</data>
+      <data key="v_budget">6000000</data>
       <data key="v_size">0</data>
     </node>
     <node id="n46">
-      <data key="v_label">13 Assassins</data>
-      <data key="v_budget">6000000</data>
+      <data key="v_label">Hotarubi no Mori e</data>
+      <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
     <node id="n47">
@@ -356,13 +356,13 @@
       <data key="v_size">0</data>
     </node>
     <node id="n69">
-      <data key="v_label">Rurouni Kenshin Part I: Origins</data>
-      <data key="v_budget">1</data>
+      <data key="v_label">Evangelion: 3.0 You Can (Not) Redo</data>
+      <data key="v_budget">13000000</data>
       <data key="v_size">0</data>
     </node>
     <node id="n70">
-      <data key="v_label">Evangelion: 3.0 You Can (Not) Redo</data>
-      <data key="v_budget">13000000</data>
+      <data key="v_label">Rurouni Kenshin Part I: Origins</data>
+      <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
     <node id="n71">
@@ -471,12 +471,12 @@
       <data key="v_size">0</data>
     </node>
     <node id="n92">
-      <data key="v_label">Zom 100: Bucket List of the Dead</data>
+      <data key="v_label">Blade of the Immortal</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
     <node id="n93">
-      <data key="v_label">Blade of the Immortal</data>
+      <data key="v_label">Zom 100: Bucket List of the Dead</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
@@ -651,17 +651,17 @@
       <data key="v_size">0</data>
     </node>
     <node id="n128">
-      <data key="v_label">Rurouni Kenshin: The Beginning</data>
+      <data key="v_label">Monster</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
     <node id="n129">
-      <data key="v_label">Love Exposure</data>
+      <data key="v_label">Rurouni Kenshin: The Beginning</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
     <node id="n130">
-      <data key="v_label">Monster</data>
+      <data key="v_label">Love Exposure</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
@@ -706,18 +706,18 @@
       <data key="v_size">0</data>
     </node>
     <node id="n139">
-      <data key="v_label">Bubble</data>
-      <data key="v_budget">1</data>
-      <data key="v_size">0</data>
-    </node>
-    <node id="n140">
       <data key="v_label">Pokémon 4Ever</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
-    <node id="n141">
+    <node id="n140">
       <data key="v_label">Interstella 5555: The 5tory of the 5ecret 5tar 5ystem</data>
       <data key="v_budget">4000000</data>
+      <data key="v_size">0</data>
+    </node>
+    <node id="n141">
+      <data key="v_label">Bubble</data>
+      <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
     <node id="n142">
@@ -851,12 +851,12 @@
       <data key="v_size">0</data>
     </node>
     <node id="n168">
-      <data key="v_label">Berserk: The Golden Age Arc III - The Advent</data>
+      <data key="v_label">Tokyo Ghoul</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
     <node id="n169">
-      <data key="v_label">Tokyo Ghoul</data>
+      <data key="v_label">Berserk: The Golden Age Arc III - The Advent</data>
       <data key="v_budget">1</data>
       <data key="v_size">0</data>
     </node>
@@ -1187,12 +1187,12 @@
       <data key="e_label">60.00M</data>
     </edge>
     <edge source="n0" target="n45">
-      <data key="e_weight">1</data>
-      <data key="e_label">1</data>
-    </edge>
-    <edge source="n0" target="n46">
       <data key="e_weight">6000000</data>
       <data key="e_label">6.00M</data>
+    </edge>
+    <edge source="n0" target="n46">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
     </edge>
     <edge source="n0" target="n47">
       <data key="e_weight">1</data>
@@ -1279,12 +1279,12 @@
       <data key="e_label">52.41k</data>
     </edge>
     <edge source="n0" target="n69">
-      <data key="e_weight">1</data>
-      <data key="e_label">1</data>
-    </edge>
-    <edge source="n0" target="n70">
       <data key="e_weight">13000000</data>
       <data key="e_label">13.00M</data>
+    </edge>
+    <edge source="n0" target="n70">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
     </edge>
     <edge source="n0" target="n71">
       <data key="e_weight">29700000</data>
@@ -1563,12 +1563,12 @@
       <data key="e_label">1</data>
     </edge>
     <edge source="n0" target="n140">
-      <data key="e_weight">1</data>
-      <data key="e_label">1</data>
-    </edge>
-    <edge source="n0" target="n141">
       <data key="e_weight">4000000</data>
       <data key="e_label">4.00M</data>
+    </edge>
+    <edge source="n0" target="n141">
+      <data key="e_weight">1</data>
+      <data key="e_label">1</data>
     </edge>
     <edge source="n0" target="n142">
       <data key="e_weight">1</data>

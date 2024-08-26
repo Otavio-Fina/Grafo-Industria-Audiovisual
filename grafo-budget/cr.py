@@ -44,18 +44,23 @@ def get_movie_details(idFilme):
         popularity = movie_details.get('popularity', 0)
         release_year = int(movie_details.get('release_date', '1900-01-01').split('-')[0])
         genres = [genre['name'] for genre in movie_details.get('genres', [])]
+        vote_count = movie_details.get('vote_count', 0)
+        vote_average = movie_details.get('vote_average', 0)  # Garantir que vote_average seja capturado
+
         return {
             'imdb_id': imdb_id,
             'budget': budget,
             'revenue': revenue,
             'title': title,
             'production_countries': production_countries,
-            'vote_count': movie_details.get('vote_count', 0),
+            'vote_count': vote_count,
+            'vote_average': vote_average,  # Incluindo vote_average no retorno
             'duration': duration,
             'popularity': popularity,
             'release_year': release_year,
             'genres': genres
         } if imdb_id else None
+
     else:
         print(f'Erro ao obter detalhes do filme ID {idFilme}: {response.status_code} - {response.text}')
         return None
@@ -99,14 +104,19 @@ def fetch_movies_by_country(country):
                 genre_stats[genre]['budget'] += movie_details['budget']
                 genre_stats[genre]['revenue'] += movie_details['revenue']
 
-    # Atualizar o número de filmes baseado nos detalhes obtidos
+
     total_filmes = len(grafoData)
     total_budget = sum(movie['budget'] for movie in grafoData)
     total_revenue = sum(movie['revenue'] for movie in grafoData)
     avg_duration = sum(movie['duration'] for movie in grafoData) / total_filmes if total_filmes else 0
     avg_popularity = sum(movie['popularity'] for movie in grafoData) / total_filmes if total_filmes else 0
     avg_release_year = sum(movie['release_year'] for movie in grafoData) / total_filmes if total_filmes else 0
+    
+    # Cálculo da média das notas dos filmes
+    notas_filmes = [movie.get('vote_average', 0) for movie in grafoData if movie.get('vote_count', 0) > 0]
+    avg_rating = sum(notas_filmes) / len(notas_filmes) if notas_filmes else 0
 
+    # Impressão dos resultados
     print("\n\n\n=========================================\n\n\n")
     print(f"\nPaís: {country}")
     print(f"Total de Filmes: {total_filmes}")
@@ -115,7 +125,9 @@ def fetch_movies_by_country(country):
     print(f"Média de Duração dos Filmes: {avg_duration:.2f} minutos")
     print(f"Média de Popularidade: {avg_popularity:.2f}")
     print(f"Média de Ano de Lançamento: {avg_release_year:.2f}")
-
+    
+    # Impressão da média das notas
+    print(f"Média de Notas dos Filmes: {avg_rating:.2f}")
     # Exibir informações de orçamento e lucro por gênero
     print("\nEstatísticas por Gênero:")
     for genre, stats in genre_stats.items():
