@@ -1,0 +1,354 @@
+=========================================
+
+
+
+
+País: US
+Total de Filmes: 200
+Soma do Orçamento dos Filmes: 25.03B
+Soma do Receita dos Filmes: 127.86B
+Média de Duração dos Filmes: 127.18 minutos
+Média de Popularidade: 105.87
+Média de Ano de Lançamento: 2011.91
+Média de Notas dos Filmes: 7.42
+
+Estatísticas por Gênero:
+Gênero: Action
+Soma do Orçamento: 17.13B
+Soma do Receita: 83.79B
+Gênero: Science Fiction
+Soma do Orçamento: 12.63B
+Soma do Receita: 62.17B
+Gênero: Adventure
+Soma do Orçamento: 18.56B
+Soma do Receita: 92.56B
+Gênero: Drama
+Soma do Orçamento: 4.64B
+Soma do Receita: 24.32B
+Gênero: Crime
+Soma do Orçamento: 1.52B
+Soma do Receita: 7.61B
+Gênero: Thriller
+Soma do Orçamento: 2.90B
+Soma do Receita: 17.02B
+Gênero: Fantasy
+Soma do Orçamento: 6.27B
+Soma do Receita: 31.73B
+Gênero: Comedy
+Soma do Orçamento: 3.45B
+Soma do Receita: 19.76B
+Gênero: Western
+Soma do Orçamento: 279.00M
+Soma do Receita: 1.11B
+Gênero: Mystery
+Soma do Orçamento: 704.00M
+Soma do Receita: 3.36B
+Gênero: War
+Soma do Orçamento: 565.80M
+Soma do Receita: 2.86B
+Gênero: Animation
+Soma do Orçamento: 3.98B
+Soma do Receita: 20.12B
+Gênero: Family
+Soma do Orçamento: 4.58B
+Soma do Receita: 23.26B
+Gênero: Music
+Soma do Orçamento: 296.30M
+Soma do Receita: 2.62B
+Gênero: Horror
+Soma do Orçamento: 315.10M
+Soma do Receita: 2.86B
+Gênero: History
+Soma do Orçamento: 197.00M
+Soma do Receita: 1.31B
+Gênero: Romance
+Soma do Orçamento: 1.15B
+Soma do Receita: 7.02B
+
+
+
+=========================================
+
+
+
+
+País: IN
+Total de Filmes: 199
+Soma do Orçamento dos Filmes: 1.55B
+Soma do Receita dos Filmes: 6.01B
+Média de Duração dos Filmes: 146.82 minutos
+Média de Popularidade: 16.52
+Média de Ano de Lançamento: 2013.12
+Média de Notas dos Filmes: 6.92
+
+Estatísticas por Gênero:
+Gênero: Adventure
+Soma do Orçamento: 401.14M
+Soma do Receita: 1.70B
+Gênero: Drama
+Soma do Orçamento: 880.16M
+Soma do Receita: 3.88B
+Gênero: Action
+Soma do Orçamento: 861.30M
+Soma do Receita: 3.06B
+Gênero: Thriller
+Soma do Orçamento: 498.01M
+Soma do Receita: 1.37B
+Gênero: Comedy
+Soma do Orçamento: 340.53M
+Soma do Receita: 1.82B
+Gênero: Romance
+Soma do Orçamento: 373.64M
+Soma do Receita: 1.77B
+Gênero: Science Fiction
+Soma do Orçamento: 178.75M
+Soma do Receita: 444.06M
+Gênero: Family
+Soma do Orçamento: 39.77M
+Soma do Receita: 418.22M
+Gênero: Fantasy
+Soma do Orçamento: 190.32M
+Soma do Receita: 562.77M
+Gênero: Crime
+Soma do Orçamento: 280.04M
+Soma do Receita: 712.03M
+Gênero: Mystery
+Soma do Orçamento: 6.40M
+Soma do Receita: 58.20M
+Gênero: History
+Soma do Orçamento: 101.10M
+Soma do Receita: 302.98M
+Gênero: War
+Soma do Orçamento: 17.00M
+Soma do Receita: 19.00M
+Gênero: Documentary
+Soma do Orçamento: 0
+Soma do Receita: 2.33M
+Gênero: Horror
+Soma do Orçamento: 1.70M
+Soma do Receita: 22.00M
+Gênero: Music
+Soma do Orçamento: 16.99M
+Soma do Receita: 191.05M
+Gênero: Animation
+Soma do Orçamento: 0
+Soma do Receita: 0
+
+
+
+=========================================
+
+
+
+
+País: CN
+Total de Filmes: 198
+Soma do Orçamento dos Filmes: 3.84B
+Soma do Receita dos Filmes: 16.45B
+Média de Duração dos Filmes: 114.74 minutos
+Média de Popularidade: 24.66
+Média de Ano de Lançamento: 2014.83
+Média de Notas dos Filmes: 6.77
+
+Estatísticas por Gênero:
+Gênero: Drama
+Soma do Orçamento: 1.71B
+Soma do Receita: 6.25B
+Gênero: History
+Soma do Orçamento: 1.03B
+Soma do Receita: 2.87B
+Gênero: War
+Soma do Orçamento: 1.01B
+Soma do Receita: 3.73B
+Gênero: Action
+Soma do Orçamento: 2.78B
+Soma do Receita: 8.50B
+Gênero: Science Fiction
+Soma do Orçamento: 544.28M
+Soma do Receita: 1.53B
+Gênero: Horror
+Soma do Orçamento: 180.00M
+Soma do Receita: 544.30M
+Gênero: Thriller
+Soma do Orçamento: 562.83M
+Soma do Receita: 2.92B
+Gênero: Fantasy
+Soma do Orçamento: 988.01M
+Soma do Receita: 5.50B
+Gênero: Adventure
+Soma do Orçamento: 1.60B
+Soma do Receita: 6.43B
+Gênero: Romance
+Soma do Orçamento: 186.76M
+Soma do Receita: 1.72B
+Gênero: Family
+Soma do Orçamento: 425.00M
+Soma do Receita: 796.16M
+Gênero: Animation
+Soma do Orçamento: 214.47M
+Soma do Receita: 1.66B
+Gênero: Comedy
+Soma do Orçamento: 615.22M
+Soma do Receita: 5.67B
+Gênero: Crime
+Soma do Orçamento: 385.72M
+Soma do Receita: 662.12M
+Gênero: Mystery
+Soma do Orçamento: 207.27M
+Soma do Receita: 1.80B
+Gênero: Documentary
+Soma do Orçamento: 0
+Soma do Receita: 4.33M
+Gênero: Music
+Soma do Orçamento: 0
+Soma do Receita: 5.02M
+
+
+
+=========================================
+
+
+
+
+País: JP
+Total de Filmes: 200
+Soma do Orçamento dos Filmes: 1.04B
+Soma do Receita dos Filmes: 6.62B
+Média de Duração dos Filmes: 105.45 minutos
+Média de Popularidade: 36.05
+Média de Ano de Lançamento: 2012.05
+Média de Notas dos Filmes: 7.29
+
+Estatísticas por Gênero:
+Gênero: Animation
+Soma do Orçamento: 539.90M
+Soma do Receita: 5.39B
+Gênero: Family
+Soma do Orçamento: 189.00M
+Soma do Receita: 1.44B
+Gênero: Fantasy
+Soma do Orçamento: 633.95M
+Soma do Receita: 4.08B
+Gênero: Romance
+Soma do Orçamento: 40.00M
+Soma do Receita: 800.84M
+Gênero: Drama
+Soma do Orçamento: 244.24M
+Soma do Receita: 2.39B
+Gênero: Adventure
+Soma do Orçamento: 445.20M
+Soma do Receita: 3.00B
+Gênero: Action
+Soma do Orçamento: 462.51M
+Soma do Receita: 2.82B
+Gênero: Thriller
+Soma do Orçamento: 298.12M
+Soma do Receita: 1.13B
+Gênero: War
+Soma do Orçamento: 30.00M
+Soma do Receita: 199.13M
+Gênero: History
+Soma do Orçamento: 30.00M
+Soma do Receita: 236.92M
+Gênero: Science Fiction
+Soma do Orçamento: 250.70M
+Soma do Receita: 1.11B
+Gênero: Horror
+Soma do Orçamento: 110.89M
+Soma do Receita: 368.03M
+Gênero: Crime
+Soma do Orçamento: 17.40M
+Soma do Receita: 45.95M
+Gênero: Mystery
+Soma do Orçamento: 94.70M
+Soma do Receita: 204.89M
+Gênero: Comedy
+Soma do Orçamento: 20.91M
+Soma do Receita: 539.07M
+Gênero: Music
+Soma do Orçamento: 4.00M
+Soma do Receita: 227.48M
+Gênero: Western
+Soma do Orçamento: 3.80M
+Soma do Receita: 2.73M
+Gênero: Documentary
+Soma do Orçamento: 0
+Soma do Receita: 4.33M
+Gênero: TV Movie
+Soma do Orçamento: 0
+Soma do Receita: 0
+
+
+
+=========================================
+
+
+
+
+País: FR
+Total de Filmes: 200
+Soma do Orçamento dos Filmes: 4.05B
+Soma do Receita dos Filmes: 8.91B
+Média de Duração dos Filmes: 107.69 minutos
+Média de Popularidade: 27.59
+Média de Ano de Lançamento: 2012.01
+Média de Notas dos Filmes: 6.78
+
+Estatísticas por Gênero:
+Gênero: Drama
+Soma do Orçamento: 1.49B
+Soma do Receita: 3.48B
+Gênero: Comedy
+Soma do Orçamento: 1.23B
+Soma do Receita: 3.31B
+Gênero: Action
+Soma do Orçamento: 1.50B
+Soma do Receita: 3.07B
+Gênero: Science Fiction
+Soma do Orçamento: 502.20M
+Soma do Receita: 1.14B
+Gênero: Romance
+Soma do Orçamento: 552.43M
+Soma do Receita: 1.65B
+Gênero: Thriller
+Soma do Orçamento: 1.02B
+Soma do Receita: 2.36B
+Gênero: Fantasy
+Soma do Orçamento: 786.25M
+Soma do Receita: 943.10M
+Gênero: War
+Soma do Orçamento: 202.40M
+Soma do Receita: 361.33M
+Gênero: Horror
+Soma do Orçamento: 240.30M
+Soma do Receita: 688.02M
+Gênero: Adventure
+Soma do Orçamento: 1.42B
+Soma do Receita: 1.75B
+Gênero: Crime
+Soma do Orçamento: 753.81M
+Soma do Receita: 1.19B
+Gênero: Mystery
+Soma do Orçamento: 247.22M
+Soma do Receita: 627.73M
+Gênero: Family
+Soma do Orçamento: 985.61M
+Soma do Receita: 1.18B
+Gênero: Animation
+Soma do Orçamento: 551.00M
+Soma do Receita: 475.61M
+Gênero: History
+Soma do Orçamento: 248.89M
+Soma do Receita: 411.66M
+Gênero: Music
+Soma do Orçamento: 36.00M
+Soma do Receita: 159.05M
+Gênero: Western
+Soma do Orçamento: 51.00M
+Soma do Receita: 13.14M
+Gênero: Documentary
+Soma do Orçamento: 8.00M
+Soma do Receita: 135.61M
+Gênero: TV Movie
+Soma do Orçamento: 0
+Soma do Receita: 0
